@@ -1,5 +1,7 @@
 <div id="copyBox1" style="border: 1px solid #ccc; padding: 10px; width: 100%; height: auto; background-color: #f9f9f9; margin-bottom: 10px;">
-    Buy cheap designer handbags, luxury watches, and discount shoes at our online store: spammyshop.com
+Exclusive Investment Opportunity!
+You’ve been selected for a unique chance to invest with the potential for high returns. Act quickly, and you could see your investment multiply in just a few weeks!
+Don’t wait—click the link to learn more and secure your spot: https://stringer.com/
 </div>
 <button onclick="copyText1()" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">Click Here To Fill Above Spam Comment Text in Below Form</button>
 <div id="copyBox2" style="border: 1px solid #ccc; padding: 10px; width: 100%; height: auto; background-color: #f9f9f9; margin-bottom: 10px;">
