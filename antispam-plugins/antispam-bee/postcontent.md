@@ -5,7 +5,9 @@ Don’t wait—click the link to learn more and secure your spot: https://string
 </div>
 <button onclick="copyText1()" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">Click Here To Fill Above Spam Comment Text in Below Form</button>
 <div id="copyBox2" style="border: 1px solid #ccc; padding: 10px; width: 100%; height: auto; background-color: #f9f9f9; margin-bottom: 10px;">
-As a fellow developer, I found your code snippets incredibly helpful. Keep up the great work!
+Wohoo, surely it is an ultimate guide for anyone who want to start their own blog.
+No wonder why wordpress is the best CMS, especially for beginners.
+Don’t rush the process in one night, bookmark this page and continue build your website later.
 </div>
 <button onclick="copyText2()" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">Click Here To Fill Above Legit Comment Text in Below Form</button>
 <script>
