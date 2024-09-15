@@ -1,8 +1,8 @@
 {
 	"meta": {
-	  "title": "Live demo page for akismet Plugin",
+	  "title": "Live demo page for Akismet Plugin",
 	  "author": "zieladam",
-	  "description": "Live demo page for akismet Plugin.",
+	  "description": "Live demo page for Akismet Plugin.",
 	  "categories": [
 		"plugins"
 	  ]
@@ -13,7 +13,7 @@
 	"plugins": [
 	  "akismet"
 	],
-	"landingPage": "/?p=1",
+	"landingPage": "/wp-admin/admin.php?page=akismet-key-config",
 	"steps": [
 	  {
 		"step": "login"
@@ -48,4 +48,4 @@
 		"pluginPath": "post-updater.php"
 	  }
 	]
-  }
+}
