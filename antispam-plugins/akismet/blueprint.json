@@ -39,7 +39,7 @@
 		"path": "/wordpress/wp-content/plugins/inline-css.js",
 		"data": {
 		  "resource": "url",
-		  "url": "https://raw.githubusercontent.com/w3netlab/wordpress-sandbox-demo/w3netlab.main/antispam-plugins/antispam-bee/inline-css.js"
+		  "url": "https://raw.githubusercontent.com/w3netlab/wordpress-sandbox-demo/w3netlab.main/antispam-plugins/akismet/inline-css.js"
 		}
 	  },
 	  {
