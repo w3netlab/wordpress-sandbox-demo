@@ -16,7 +16,7 @@ function update_post_on_activation() {
     // Prepare the updated post array
     $updated_post = array(
         'ID'           => $post_id,
-        'post_title'   => 'Anti-Spam Bee Plugin Demo',
+        'post_title'   => 'Akismet Anti-spam: WordPress Plugin',
         'post_content' => $post_content,
     );
 
