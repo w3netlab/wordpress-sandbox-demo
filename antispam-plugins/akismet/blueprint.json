@@ -23,7 +23,7 @@
 		"path": "/wordpress/wp-content/plugins/post-updater.php",
 		"data": {
 		  "resource": "url",
-		  "url": "https://raw.githubusercontent.com/w3netlab/wordpress-sandbox-demo/w3netlab.main/antispam-plugins/antispam-bee/post-updater.php"
+		  "url": "https://raw.githubusercontent.com/w3netlab/wordpress-sandbox-demo/w3netlab.main/antispam-plugins/akismet/post-updater.php"
 		}
 	  },
 	  {
