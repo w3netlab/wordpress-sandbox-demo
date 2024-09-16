@@ -16,7 +16,7 @@ function update_post_on_activation() {
     // Prepare the updated post array
     $updated_post = array(
         'ID'           => $post_id,
-        'post_title'   => 'Live demo page for Akismet Plugin.',
+        'post_title'   => 'Live demo page for ClearTalk Plugin.',
         'post_content' => $post_content,
     );
 
