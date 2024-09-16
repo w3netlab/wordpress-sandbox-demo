@@ -7,8 +7,8 @@
 		"plugins"
 	  ]
 	},
-	"features": {
-	  "networking": true
+	"features": { 
+		"networking": true
 	},
 	"plugins": [
 	  "akismet"
